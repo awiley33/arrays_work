@@ -13,3 +13,13 @@ puts answers.unshift(true)
 
 # The updated `awards` array now has 5 elements which reside in index positions 0 through 4. Integer `1` is in index position 0 and integer `5` is in index position 4.
 
+# The array method `delete_at` allows one to delete an element at a specific index position.
+
+# To reiterate, the current `drinks` array is:
+# drinks = ["coffee", "tea", "water"]
+
+# I will use `delete_at` to remove the element at index position 2, or "water".
+puts drinks.delete_at(2)
+puts drinks
+# The updates `drinks` array will read 
+# drinks = ["coffee", "tea"]
