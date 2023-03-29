@@ -1,0 +1,3 @@
+- I feel confident with my understanding of Arrays and what we've learned about them so far.
+- If anything, I would like to read through the Ruby doc to learn about the other methods.
+- I don't have any questions at this time.
